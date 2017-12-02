@@ -1,0 +1,2 @@
+# CSGO-Config
+CSGO autoexec
