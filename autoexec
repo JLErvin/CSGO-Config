@@ -83,3 +83,5 @@ cl_bob_lower_amt "5.000000"
 cl_bobamt_lat "0.100000"
 cl_bobamt_vert "0.100000"
 cl_bobcycle "0.980000"
+
+sensitivity 1.8
